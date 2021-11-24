@@ -25,9 +25,13 @@ Date: 20/11/21
 ### Entities Overview:
 
 ADMIN: Is our application user, uses our application only after verifying his/her credentials (ID, password).
+
 OWNER: Is an owner of Whole Apartment/Apartments. And get money from tenants for Rent and Deposits.
+
 APARTMENT: Is a flat/building/maisonette/any entity containing multiple houses in it. Apartment is owned by Owner. e.g., XYZ society, ABC bungalows, KBH hostel.
+
 HOUSE: Is a liveable and rentable entity created by owner in his apartment. Tenants occupy these houses for their use and pay Rent and Deposit to Owner of house(apartment). E.g., E-510 Room in KBH apartment, Block no. 12 in XYZ society.
+
 TENANT: is a person who live in house and pay monthly rent to Owner. Tenant may have multiple houses.
 
 ### Entities Relationships:
