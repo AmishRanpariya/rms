@@ -92,35 +92,35 @@ Which Contains Information (Overview) of Database like No. of Registered Owners,
 
 ![](<image/Screenshot%20(49).png>)
 
-#### Add Tenant Form.
+<!-- #### Add Tenant Form. -->
 
-![](<image/Screenshot%20(50).png>)
+<!-- ![](<image/Screenshot%20(50).png>) -->
 
 #### Tenant’s Detailed Info with Payment Overview, Houses Occupation, Payment Info.
 
 ![](<image/Screenshot%20(51).png>)
 ![](<image/Screenshot%20(53).png>)
 
-#### Edit Tenant Info Form.
+<!-- #### Edit Tenant Info Form. -->
 
-![](<image/Screenshot%20(54).png>)
+<!-- ![](<image/Screenshot%20(54).png>) -->
 
 #### Apartments List
 
 ![](<image/Screenshot%20(55).png>)
 
-#### Add Apartment Form
+<!-- #### Add Apartment Form -->
 
-![](<image/Screenshot%20(56).png>)
+<!-- ![](<image/Screenshot%20(56).png>) -->
 
 #### Apartment’s Detailed Info and it’s Houses Info
 
 ![](<image/Screenshot%20(57).png>)
 ![](<image/Screenshot%20(59).png>)
 
-#### Edit Apartment Details Form
+<!-- #### Edit Apartment Details Form -->
 
-![](<image/Screenshot%20(58).png>)
+<!-- ![](<image/Screenshot%20(58).png>) -->
 
 #### All Houses List
 
@@ -130,13 +130,13 @@ Which Contains Information (Overview) of Database like No. of Registered Owners,
 
 ![](<image/Screenshot%20(61).png>)
 
-#### Occupied Houses List
+<!-- #### Occupied Houses List -->
 
-![](<image/Screenshot%20(62).png>)
+<!-- ![](<image/Screenshot%20(62).png>) -->
 
-#### Add House Form
+<!-- #### Add House Form -->
 
-![](<image/Screenshot%20(63).png>)
+<!-- ![](<image/Screenshot%20(63).png>) -->
 
 #### Detailed House Information (occupied)
 
