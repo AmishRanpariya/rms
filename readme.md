@@ -1,15 +1,17 @@
-# NATIONAL INSTITUTE OF TECHNOLOGY, HAMIRPUR
+#### NATIONAL INSTITUTE OF TECHNOLOGY, HAMIRPUR
 
-## DBMS PROJECT SUBMISSION
+# DBMS PROJECT SUBMISSION
 
-Member 1: Amish Ranpariya ( 195554 )
-Member 2: Rohit Acharya ( 195555 )
-Member 3: Mayur Kumar ( 195556 )
-Member 4: Mohd Uvesh ( 195573 )
-Member 5: Jatin Khatri ( 193092 )
+- Amish Ranpariya ( 195554 )
+- Rohit Acharya ( 195555 )
+- Mayur Kumar ( 195556 )
+- Mohd Uvesh ( 195573 )
+- Jatin Khatri ( 193092 )
 
 Class: D (CSE-DUAL)
+
 Subject: CS 315 (DBMS LAB)
+
 Date: 20/11/21
 
 ## Project Overview
@@ -24,15 +26,15 @@ Date: 20/11/21
 
 ### Entities Overview:
 
-ADMIN: Is our application user, uses our application only after verifying his/her credentials (ID, password).
+- ADMIN: Is our application user, uses our application only after verifying his/her credentials (ID, password).
 
-OWNER: Is an owner of Whole Apartment/Apartments. And get money from tenants for Rent and Deposits.
+- OWNER: Is an owner of Whole Apartment/Apartments. And get money from tenants for Rent and Deposits.
 
-APARTMENT: Is a flat/building/maisonette/any entity containing multiple houses in it. Apartment is owned by Owner. e.g., XYZ society, ABC bungalows, KBH hostel.
+- APARTMENT: Is a flat/building/maisonette/any entity containing multiple houses in it. Apartment is owned by Owner. e.g., XYZ society, ABC bungalows, KBH hostel.
 
-HOUSE: Is a liveable and rentable entity created by owner in his apartment. Tenants occupy these houses for their use and pay Rent and Deposit to Owner of house(apartment). E.g., E-510 Room in KBH apartment, Block no. 12 in XYZ society.
+- HOUSE: Is a liveable and rentable entity created by owner in his apartment. Tenants occupy these houses for their use and pay Rent and Deposit to Owner of house(apartment). E.g., E-510 Room in KBH apartment, Block no. 12 in XYZ society.
 
-TENANT: is a person who live in house and pay monthly rent to Owner. Tenant may have multiple houses.
+- TENANT: is a person who live in house and pay monthly rent to Owner. Tenant may have multiple houses.
 
 ### Entities Relationships:
 
@@ -53,3 +55,118 @@ TENANT: is a person who live in house and pay monthly rent to Owner. Tenant may 
 8. Admin can view all vacant house list.
 9. Admin can view all occupied houses and its tenants list and date of assignment of house.
 10. Admin can do some action like add owner in database, add tenant, add apartment, add house, vacate the house, place a tenant in house, generate payment receipt, generate monthly and yearly total calculation receipts.
+
+## Project Demo
+
+#### Sign Up page For New User/Admin
+
+![](<image/Screenshot%20(76).png>)
+
+#### Login Page For Existing User/Admin
+
+![](<image/Screenshot%20(75).png>)
+
+#### Homepage of Apartment Renting Management System (ARM System)
+
+![](<image/Screenshot%20(42).png>)
+Which Contains Information (Overview) of Database like No. of Registered Owners, No. of Registered Tenants, No. of Apartments, No. of Houses, No. of Payments.
+
+#### Owners List
+
+![](<image/Screenshot%20(43).png>)
+
+#### Add Owner Form
+
+![](<image/Screenshot%20(44).png>)
+
+#### Owner’s Detailed Information with Payment Overview, Apartments Info and Payment Info.
+
+![](<image/Screenshot%20(45).png>)
+![](<image/Screenshot%20(46).png>)
+
+#### Edit Owner Form.
+
+![](<image/Screenshot%20(48).png>)
+
+#### Tenants List
+
+![](<image/Screenshot%20(49).png>)
+
+#### Add Tenant Form.
+
+![](<image/Screenshot%20(50).png>)
+
+#### Tenant’s Detailed Info with Payment Overview, Houses Occupation, Payment Info.
+
+![](<image/Screenshot%20(51).png>)
+![](<image/Screenshot%20(53).png>)
+
+#### Edit Tenant Info Form.
+
+![](<image/Screenshot%20(54).png>)
+
+#### Apartments List
+
+![](<image/Screenshot%20(55).png>)
+
+#### Add Apartment Form
+
+![](<image/Screenshot%20(56).png>)
+
+#### Apartment’s Detailed Info and it’s Houses Info
+
+![](<image/Screenshot%20(57).png>)
+![](<image/Screenshot%20(59).png>)
+
+#### Edit Apartment Details Form
+
+![](<image/Screenshot%20(58).png>)
+
+#### All Houses List
+
+![](<image/Screenshot%20(60).png>)
+
+#### Vacant Houses List
+
+![](<image/Screenshot%20(61).png>)
+
+#### Occupied Houses List
+
+![](<image/Screenshot%20(62).png>)
+
+#### Add House Form
+
+![](<image/Screenshot%20(63).png>)
+
+#### Detailed House Information (occupied)
+
+![](<image/Screenshot%20(64).png>)
+
+#### Detailed House Information (Vacant)
+
+![](<image/Screenshot%20(65).png>)
+
+#### House Assignment Information with its payment history.
+
+![](<image/Screenshot%20(66).png>)
+![](<image/Screenshot%20(67).png>)
+
+#### Assign House Form.
+
+![](<image/Screenshot%20(69).png>)
+
+#### Payments History
+
+![](<image/Screenshot%20(70).png>)
+
+#### Payment Invoice to print
+
+![](<image/Screenshot%20(71).png>)
+
+#### Demo Invoice
+
+![](image/invoice.png)
+
+#### House Rent Payment Form
+
+![](<image/Screenshot%20(74).png>)
