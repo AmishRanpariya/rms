@@ -1,17 +1,3 @@
-#### NATIONAL INSTITUTE OF TECHNOLOGY, HAMIRPUR
-
-# DBMS PROJECT SUBMISSION
-
-- Amish Ranpariya ( 195554 )
-- Rohit Acharya ( 195555 )
-- Mayur Kumar ( 195556 )
-- Mohd Uvesh ( 195573 )
-- Jatin Khatri ( 193092 )
-
-Class: D (CSE-DUAL)
-
-Subject: CS 315 (DBMS LAB)
-
 Date: 20/11/21
 
 ## Project Overview
